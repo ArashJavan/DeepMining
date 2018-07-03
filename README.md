@@ -1,6 +1,13 @@
 ## Deep Mining ##
 
-This [project](http://hdi-project.github.io/DeepMining/) is part of the Human Data Interaction project at CSAIL, MIT.
+This [project](https://hdi-dai.lids.mit.edu/projects/deep-mining/) is part of the Human Data Interaction project at CSAIL, MIT. The [main repo](https://github.com/HDI-Project/DeepMining) is going through a lot of improvements and will be publicly available soon. This is a fork of the first version.
+
+References:
+- [Sample, Estimate, Tune: Scaling Bayesian Auto-Tuning of Data Science Pipelines](https://ieeexplore.ieee.org/document/8259796/)  
+Alec Anderson ; Sebastien Dubois ; Alfredo Cuesta-infante ; Kalyan Veeramachaneni  
+IEEE International Conference on Data Science and Advance Analytics, 2017
+- [Deep Mining: Copula-based Hyper-Parameter Optimization for Machine Learning Pipelines ](http://sds-dubois.github.io/downloads/deepmining_thesis.pdf)  
+Sebastien Dubois  - Research thesis
 
 
 ### Overview ###
